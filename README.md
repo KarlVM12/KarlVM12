@@ -1,6 +1,6 @@
-## Hi there 👋
+### Karl
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarlVM12&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+Just a software engineer passionate about ai and cloud infrastructure !
 <!--
 **KarlVM12/KarlVM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
