@@ -26,4 +26,4 @@
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/KarlVM12/KarlVM12/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/KarlVM12/KarlVM12/output/ocean.gif)
