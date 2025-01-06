@@ -1,17 +1,25 @@
-### Karl
+# 👋 I'm Karl !
 
-Just a software engineer passionate about ai and cloud infrastructure !
-<!--
-**KarlVM12/KarlVM12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software & Site Reliability Engineer | 🚀 AI Enthusiast | 🌐 Cloud Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+---
+
+### About Me
+- 🔭 I’m currently working on: <b>Dynamic Probability Mapping Model</b>
+- 🌱 Learning: Server Development with Go
+- 💬 Ask me about: AI, Unity, or AWS!
+- 📫 How to reach me: [linkedin](www.linkedin.com/in/karlvmuller)
+
+
+---
+
+✨ **Feel free to connect and collaborate!** ✨
