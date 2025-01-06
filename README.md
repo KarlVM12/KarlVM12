@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on: <b>Dynamic Probability Mapping Model</b>
 - 🌱 Learning: Server Development with Go
 - 💬 Ask me about: AI, Unity, or AWS!
-- 📫 How to reach me: [linkedin](www.linkedin.com/in/karlvmuller)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karlvmuller)
 
 
 ---
