@@ -13,8 +13,8 @@
 ---
 
 ### About Me
-- 🔭 I’m currently working on: <b>[Dynamic Probability Mapping Model](https://karlvmuller.com/posts/dpmm/)</b>
-- 🌱 Learning: Agentic AI Pipelines
+- 🔭 I’m currently working on: <b>[Tessellate Labs](https://ts8labs.com)</b>
+- 🌱 Learning: Linguistic Language Models
 - 💬 Ask me about: AI, Unity, or AWS!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karlvmuller)
 
