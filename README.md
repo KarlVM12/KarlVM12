@@ -4,11 +4,12 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ---
 
