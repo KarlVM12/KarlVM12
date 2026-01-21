@@ -15,7 +15,7 @@
 
 ### About Me
 - 🔭 I’m currently working on: <b>[Grammar Aware Language Models](https://ts8labs.com/research)</b>
-- 🌱 Learning: Linguistic Language Models
+- 🌱 Learning: Language Models & Agentic AI
 - 💬 Ask me about: AI, Unity, or AWS!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karlvmuller)
 
